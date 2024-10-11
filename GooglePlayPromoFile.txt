@@ -1,1 +1,1 @@
-{"gameName":"Last War","storeLink":"https://play.google.com/store/apps/details?id=com.fun.lastwar.gp&hl=en","imageUrls":["https://raw.githubusercontent.com/NovaGames911/NovaGames/main/ttAds.jpg"]}
+{"gameName":"Last War","storeLink":"https://play.google.com/store/apps/details?id=com.fun.lastwar.gp&hl=en","imageUrls":["https://raw.githubusercontent.comm/NovaGames911/NovaGames/main/Ads.jpg"]}
