@@ -1,0 +1,1 @@
+{"gameName":"LastWar","storeLink":"https://play.google.com/store/apps/details?id=com.fun.lastwar.gp&hl=en","imageUrls":["https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Homelander.jpg"]}
