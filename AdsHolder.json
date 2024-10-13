@@ -9,9 +9,9 @@
     },
     {
       "id": "pack2",
-      "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/AnotherVideo.mp4",
-      "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/AnotherImage.jpg",
-      "webURL": "https://example.com/another-page",
+      "videoURL": "https://example.com/video2.mp4",
+      "imageURL": "https://example.com/image2.jpg",
+      "webURL": "https://example.com/page2.html",
       "priority": 2
     }
   ]
