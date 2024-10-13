@@ -5,14 +5,14 @@
       "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/SecondLastWar.mp4",
       "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Ads.jpg",
       "webURL": "https://play.google.com/store/search?q=last%20war&c=apps",
-      "priority": 1
+      "priority": 2
     },
     {
       "id": "pack2",
-      "videoURL": "https://example.com/video2.mp4",
-      "imageURL": "https://example.com/image2.jpg",
-      "webURL": "https://example.com/page2.html",
-      "priority": 2
+      "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/SecondLastWar.mp4",
+      "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Homelander.jpg",
+      "webURL": "https://play.google.com/store/search?q=last%20war&c=apps",
+      "priority": 1
     }
   ]
 }
