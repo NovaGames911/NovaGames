@@ -2,7 +2,7 @@
   "mediaPacks": [
     {
       "id": "pack1",
-      "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/warencoded.mp4",
+      "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/lwar_encoded.mp4",
       "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Ads.jpg",
       "webURL": "https://play.google.com/store/search?q=last%20war&c=apps",
       "priority": 1
