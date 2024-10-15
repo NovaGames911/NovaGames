@@ -1,5 +1,5 @@
 {
-  "mixAds": false,
+  "mixAds": true,
   "mediaPacks": [
     {
       "id": "pack1",
