@@ -32,13 +32,19 @@
         "id": "interstitialPack1",
         "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Homelander.jpg",
         "webURL": "https://play.google.com/store/search?q=last%20war&c=apps",
-        "priority": 2
+        "priority": 1
       },
       {
         "id": "interstitialPack2",
         "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/mobcontrol.jpg",
         "webURL": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en_IN",
-        "priority": 1
+        "priority": 2
+      },
+      {
+        "id": "interstitialPack3",
+        "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/socer.png",
+        "webURL": "https://play.google.com/store/apps/details?id=com.orbitalknight.ridiculousfreekick&hl=en",
+        "priority": 3
       }
     ]
   }
