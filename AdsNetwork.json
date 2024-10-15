@@ -32,20 +32,6 @@
         "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/mobcontrol.jpg",
         "webURL": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en_IN",
         "priority": 1
-      },
-      {
-        "id": "pack5",
-        "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/Quality.mp4",
-        "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Homelander.jpg",
-        "webURL": "https://play.google.com/store/search?q=last%20war&c=apps",
-        "priority": 3
-      },
-      {
-        "id": "pack6",
-        "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/QualityMob.mp4",
-        "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/mobcontrol.jpg",
-        "webURL": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en_IN",
-        "priority": 4
       }
     ]
   }
