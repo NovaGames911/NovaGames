@@ -4,21 +4,21 @@
     "mediaPacks": [
       {
         "id": "rewardedPack1",
-        "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/life.mp4",
+        "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/lol.mp4",
         "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Homelander.jpg",
         "webURL": "https://play.google.com/store/search?q=last%20war&c=apps",
         "priority": 1
       },
       {
         "id": "rewardedPack2",
-        "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/life.mp4",
+        "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/lol.mp4",
         "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/life.jpg",
         "webURL": "https://play.google.com/store/apps/details?id=com.tarekmongy.RunofLife&hl=en",
         "priority": 2
       },
       {
         "id": "rewardedPack3",
-        "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/life.mp4",
+        "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/lol.mp4",
         "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/mobcontrol.jpg",
         "webURL": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en_IN",
         "priority": 3
