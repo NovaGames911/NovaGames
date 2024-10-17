@@ -4,7 +4,7 @@
     "mediaPacks": [
       {
         "id": "rewardedPack1",
-        "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/waroutput.mkv",
+        "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/lol.mp4",
         "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Homelander.jpg",
         "webURL": "https://play.google.com/store/search?q=last%20war&c=apps",
         "priority": 1
