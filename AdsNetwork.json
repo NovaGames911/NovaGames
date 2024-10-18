@@ -1,6 +1,6 @@
 {
   "RewardedAds": {
-    "mixAds": false,
+    "mixAds": true,
     "mediaPacks": [
       {
         "id": "rewardedPack1",
