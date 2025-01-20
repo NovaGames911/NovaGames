@@ -9,7 +9,7 @@
             "buttonId": "button2"
         },
         "Mod_3": {
-            "https://play.google.com/store/apps/details?id=com.horror.sprunky.beats",
+            "url": "https://play.google.com/store/apps/details?id=com.horror.sprunky.beats",
             "buttonId": "button3"
         },
         "Mod_4": {
