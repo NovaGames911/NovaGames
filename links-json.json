@@ -1,0 +1,40 @@
+{
+    "webLinks": {
+        "Mod_1": {
+            "url": "https://example.com/mod1",
+            "buttonId": "button1"
+        },
+        "Mod_2": {
+            "url": "https://example.com/mod2",
+            "buttonId": "button2"
+        },
+        "Mod_3": {
+            "url": "https://example.com/mod3",
+            "buttonId": "button3"
+        },
+        "Mod_4": {
+            "url": "https://example.com/mod4",
+            "buttonId": "button4"
+        },
+        "Mod_5": {
+            "url": "https://example.com/mod5",
+            "buttonId": "button5"
+        },
+        "Mod_6": {
+            "url": "https://example.com/mod6",
+            "buttonId": "button6"
+        },
+        "Mod_7": {
+            "url": "https://example.com/mod7",
+            "buttonId": "button7"
+        },
+        "Mod_8": {
+            "url": "https://example.com/mod8",
+            "buttonId": "button8"
+        },
+        "Mod_9": {
+            "url": "https://example.com/mod9",
+            "buttonId": "button9"
+        }
+    }
+}
