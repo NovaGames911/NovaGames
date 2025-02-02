@@ -4,71 +4,15 @@
             "title": "Blox Roblox",
             "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
             "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en"
-           
+            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "isClickable": true
         },
         {
             "title": "Pet Simulator X",
-            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png", 
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
             "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en"
-           
-        },
-        {
-            "title": "Pet Simulator X",
-            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png", 
-            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en"
-            
-        },
-        {
-            "title": "Pet Simulator X",
-            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png", 
-            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en"
-            
-        },
-        {
-            "title": "Pet Simulator X",
-            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png", 
-            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en"
-            
-        },
-        {
-            "title": "Pet Simulator X",
-            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png", 
-            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en"
-           
-        },
-        {
-            "title": "Pet Simulator X",
-            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png", 
-            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en"
-            
-        },
-        {
-            "title": "Pet Simulator X",
-            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png", 
-            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en"
-            
-        },
-        {
-            "title": "Pet Simulator X",
-            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png", 
-            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en"
-            
-        },
-        {
-            "title": "Pet Simulator X",
-            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png", 
-            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en"
-            
+            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
+            "isClickable": false
         }
     ]
 }
