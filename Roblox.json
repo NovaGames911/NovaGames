@@ -1,0 +1,11 @@
+{
+    "games": [
+        {
+            "title": "Blox Fruits",
+            "imageUrl": "https://your-image-url.com/blox-fruits.jpg",
+            "iconUrl": "https://your-image-url.com/blox-fruits-icon.jpg",
+            "link": "https://your-game-link.com/blox-fruits",
+            "rating": 97.5
+        }
+    ]
+}
