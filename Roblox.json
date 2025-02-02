@@ -2,9 +2,9 @@
     "games": [
         {
             "title": "Blox Fruits",
-            "imageUrl": "https://your-image-url.com/blox-fruits.jpg",
-            "iconUrl": "https://your-image-url.com/blox-fruits-icon.jpg",
-            "link": "https://your-game-link.com/blox-fruits",
+            "imageUrl": "https://github.com/NovaGames911/NovaGames/blob/main/R1.png",
+            "iconUrl": "https://github.com/NovaGames911/NovaGames/blob/main/Robloxicon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
             "rating": 97.5
         }
     ]
