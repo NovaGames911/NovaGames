@@ -1,22 +1,22 @@
 {
     "games": [
         {
-            "title": "Blox Roblox",
-            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
+            "title": "[Pain] Blox Fruits",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/BloxFruit.png",
             "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
             "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
             "isClickable": true
         },
         {
-            "title": "Blox Roblox",
-            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
+            "title": "RIVALS",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Rivals.png",
             "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
             "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
             "isClickable": true
         },
         {
-            "title": "Blox Roblox",
-            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
+            "title": "[Slasher] Forsaken",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Forswken.png",
             "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
             "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
             "isClickable": true
