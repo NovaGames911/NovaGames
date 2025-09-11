@@ -1,0 +1,104 @@
+{
+    "games": [
+        {
+            "title": "Blox Roblox",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
+            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "isClickable": true
+        },
+        {
+            "title": "Blox Roblox",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
+            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "isClickable": true
+        },
+        {
+            "title": "Blox Roblox",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
+            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "isClickable": true
+        },
+        {
+            "title": "Blox Roblox",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
+            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "isClickable": true
+        },
+        {
+            "title": "Pet Simulator X",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/comingsoon.png",
+            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
+            "isClickable": false
+        },
+        {
+            "title": "Pet Simulator X",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/comingsoon.png",
+            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
+            "isClickable": false
+        },
+        {
+            "title": "Pet Simulator X",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/comingsoon.png",
+            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
+            "isClickable": false
+        },
+        {
+            "title": "Pet Simulator X",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/comingsoon.png",
+            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
+            "isClickable": false
+        }
+    ],
+    "horizontalGames": [
+        {
+            "title": "Featured Game 1",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
+            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "isClickable": true
+        },
+        {
+            "title": "Featured Game 2",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
+            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "isClickable": true
+        },
+        {
+            "title": "Featured Game 3",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
+            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "isClickable": true
+        },
+        {
+            "title": "Coming Soon",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/comingsoon.png",
+            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "link": "#",
+            "isClickable": false
+        },
+        {
+            "title": "Featured Game 4",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
+            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "isClickable": true
+        },
+        {
+            "title": "Featured Game 5",
+            "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
+            "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
+            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "isClickable": true
+        }
+    ]
+}
