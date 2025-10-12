@@ -4,56 +4,80 @@
             "title": "Blox Roblox",
             "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
             "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "links": [
+                "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+                "https://apps.apple.com/us/app/roblox/id431946152"
+            ],
             "isClickable": true
         },
         {
             "title": "Blox Roblox",
             "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
             "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "links": [
+                "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+                "https://apps.apple.com/us/app/roblox/id431946152"
+            ],
             "isClickable": true
         },
         {
             "title": "Blox Roblox",
             "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
             "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "links": [
+                "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+                "https://apps.apple.com/us/app/roblox/id431946152"
+            ],
             "isClickable": true
         },
         {
             "title": "Blox Roblox",
             "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
             "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "links": [
+                "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+                "https://apps.apple.com/us/app/roblox/id431946152"
+            ],
             "isClickable": true
         },
         {
             "title": "Pet Simulator X",
             "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
             "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
+            "links": [
+                "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
+                "https://apps.apple.com/us/app/minicraft-exploration/id1234567890"
+            ],
             "isClickable": true
         },
         {
             "title": "Pet Simulator X",
             "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
             "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
+            "links": [
+                "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
+                "https://apps.apple.com/us/app/minicraft-exploration/id1234567890"
+            ],
             "isClickable": true
         },
         {
             "title": "Pet Simulator X",
             "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
             "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
+            "links": [
+                "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
+                "https://apps.apple.com/us/app/minicraft-exploration/id1234567890"
+            ],
             "isClickable": true
         },
         {
             "title": "Pet Simulator X",
             "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
             "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
+            "links": [
+                "https://play.google.com/store/apps/details?id=com.minicraft.pro&hl=en",
+                "https://apps.apple.com/us/app/minicraft-exploration/id1234567890"
+            ],
             "isClickable": true
         }
     ],
@@ -62,42 +86,60 @@
             "title": "Featured Game 1",
             "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
             "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "links": [
+                "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+                "https://apps.apple.com/us/app/roblox/id431946152"
+            ],
             "isClickable": true
         },
         {
             "title": "Featured Game 2",
             "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
             "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "links": [
+                "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+                "https://apps.apple.com/us/app/roblox/id431946152"
+            ],
             "isClickable": true
         },
         {
             "title": "Featured Game 3",
             "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
             "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "links": [
+                "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+                "https://apps.apple.com/us/app/roblox/id431946152"
+            ],
             "isClickable": true
         },
         {
             "title": "Coming Soon",
             "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
             "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "links": [
+                "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+                "https://apps.apple.com/us/app/roblox/id431946152"
+            ],
             "isClickable": true
         },
         {
             "title": "Featured Game 4",
             "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
             "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "links": [
+                "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+                "https://apps.apple.com/us/app/roblox/id431946152"
+            ],
             "isClickable": true
         },
         {
             "title": "Featured Game 5",
             "imageUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/R1.png",
             "iconUrl": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Robloxicon.png",
-            "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+            "links": [
+                "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en",
+                "https://apps.apple.com/us/app/roblox/id431946152"
+            ],
             "isClickable": true
         }
     ]
