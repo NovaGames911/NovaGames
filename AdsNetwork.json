@@ -4,22 +4,22 @@
     "mediaPacks": [
       {
         "id": "rewardedPack1",
-        "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/ready.mp4",
-        "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Homelander.jpg",
+        "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/escape.mp4",
+        "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/panel.jpg",
         "webURL": "https://play.google.com/store/search?q=last%20war&c=apps",
         "priority": 1
       },
       {
         "id": "rewardedPack2",
-        "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/ready.mp4",
-        "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/life.jpg",
+        "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/escape.mp4",
+        "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/panel.jpg",
         "webURL": "https://play.google.com/store/apps/details?id=com.tarekmongy.RunofLife&hl=en",
         "priority": 2
       },
       {
         "id": "rewardedPack3",
-        "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/ready.mp4",
-        "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/mobcontrol.jpg",
+        "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/escape.mp4",
+        "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/panel.jpg",
         "webURL": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en_IN",
         "priority": 3
       }
@@ -30,19 +30,19 @@
     "mediaPacks": [
       {
         "id": "interstitialPack1",
-        "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/Homelander.jpg",
+        "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/panel.jpg",
         "webURL": "https://play.google.com/store/search?q=last%20war&c=apps",
         "priority": 1
       },
       {
         "id": "interstitialPack2",
-        "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/mobcontrol.jpg",
+        "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/panel.jpg",
         "webURL": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en_IN",
         "priority": 2
       },
       {
         "id": "interstitialPack3",
-        "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/socer.png",
+        "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/panel.png",
         "webURL": "https://play.google.com/store/apps/details?id=com.orbitalknight.ridiculousfreekick&hl=en",
         "priority": 3
       }
